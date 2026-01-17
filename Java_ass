@@ -1,0 +1,44 @@
+package javaapplication37;
+
+/**
+ *
+ * @author User52
+ */
+public class JavaApplication37 {
+
+    /**
+     * @param args the command line arguments
+     */
+    static String a="Rucha";
+        static void ab()
+        {
+        
+            System.out.println("Welcome");
+        }
+    public static void main(String[] args) {
+        // TODO code application logic here
+        JavaApplication37.ab();
+        System.out.println("Your Name is:"+JavaApplication37.a);
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
